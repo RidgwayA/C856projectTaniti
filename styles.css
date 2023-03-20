@@ -15,7 +15,7 @@ body{
     width: 100%;
 /*     background: url(./C856projectTaniti/images/welcome.jpg); */
 /* 	background: url(https://clever-mermaid-b8e5ab.netlify.app/C856projectTaniti/images/welcome.jpg); */
-	background: url(https://github.com/RidgwayA/C856projectTaniti/blob/main/images/welcome.jpg);
+	background: url("https://RidgwayA.github.io/welcome.jpg");
     background-repeat: no-repeat;
     background-size: cover; 
     background-position: center; 
